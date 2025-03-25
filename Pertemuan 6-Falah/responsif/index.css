@@ -1,0 +1,457 @@
+.responsivedesign-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.responsivedesignresponsivedesign {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-default-ppwpertemuan3);
+}
+ 
+.responsivedesign-mac-book-air3 {
+  gap: 8px;
+  width: 100%;
+  height: 676px;
+  display: flex;
+  padding: 62px 74px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.47999998927116394);
+  background-image: url("tq_wj8soyngwa-s9xp-1500w.png");
+}
+
+.responsivedesign-frame293 {
+  gap: 108px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.responsivedesign-frame290 {
+  gap: 409px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.responsivedesign-frame289 {
+  width: 520.6602172851562px;
+  display: flex;
+  padding: 0 342px 0 0;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.responsivedesign-frame288 {
+  gap: 8px;
+  width: 89.33010864257812px;
+  display: flex;
+  padding: 8px 0;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+
+.responsivedesignmalvoralogo {
+  width: 57px;
+  height: 26px;
+}
+ 
+.responsivedesign-frame287 {
+  width: 89px;
+  height: 14px;
+  flex-grow: 1;
+}
+ 
+.responsivedesign-frame245 {
+  gap: 60px;
+  display: flex;
+  padding: 0 0 0 108px;
+  flex-grow: 1;
+  align-items: center;
+}
+ 
+.responsivedesign-text100 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: normal;
+}
+ 
+.responsivedesign-text101 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: normal;
+}
+ 
+.responsivedesign-text102 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: normal;
+}
+ 
+.responsivedesign-text103 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: normal;
+}
+ 
+.responsivedesign-frame292 {
+  gap: 64px;
+  width: 798px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.responsivedesign-frame291 {
+  gap: 18px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.responsivedesign-text104 {
+  color: var(--dl-color-default-headertext);
+  height: auto;
+  font-size: 70px;
+  align-self: stretch;
+  font-style:  Bold;
+  text-align: center;
+  font-family: HI Manokalanipo;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.responsivedesign-text108 {
+  color: var(--dl-color-default-headertext);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style:  Roman;
+  text-align: center;
+  font-family: HI Manokalanipo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.responsivedesign-button1 {
+  display: inline-block;
+  gap: 5.839468002319336px;
+  width: 201px;
+  height: 52.00699234008789px;
+  padding: 8.759202003479004px 11.678936004638672px;
+  align-items: center;
+  border-radius: 10.648442268371582px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttondefault);
+}
+
+.responsivedesign-button1:hover {
+    background-color: var(--dl-color-default-buttonhover);
+    transition: 0.6s;
+}
+ 
+.responsivedesign-text109 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 14.000000059604645%;
+}
+ 
+.responsivedesign-mac-book-air4 {
+  gap: 8px;
+  display: flex;
+  padding: 18px 464px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-default-creamppw);
+}
+ 
+.responsivedesign-frame295 {
+  gap: 17px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.responsivedesign-text110 {
+  color: var(--dl-color-default-ppwtextcolor);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+ 
+.responsivedesign-frame294 {
+  gap: 9px;
+  width: 176px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.responsivedesign-starreview1 {
+  width: 28px;
+  height: 28px;
+}
+ 
+.responsivedesign-starreview2 {
+  width: 28px;
+  height: 28px;
+}
+ 
+.responsivedesign-starreview3 {
+  width: 28px;
+  height: 28px;
+}
+ 
+.responsivedesign-starreview4 {
+  width: 28px;
+  height: 28px;
+}
+ 
+.responsivedesign-starreview5 {
+  width: 28px;
+  height: 28px;
+}
+ 
+.responsivedesign-text111 {
+  color: var(--dl-color-default-ppwtextcolor);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: normal;
+}
+ 
+.responsivedesign-mac-book-air5 {
+  gap: 8px;
+  display: flex;
+  padding: 86px 95px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-default-ppwpertemuan3);
+}
+ 
+.responsivedesign-frame214 {
+  gap: 100px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.responsivedesign-frame213 {
+  gap: 21px;
+  width: 517px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.responsivedesign-text112 {
+  color: var(--dl-color-default-ppwtextcolor);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 131.0352921485901%;
+}
+ 
+.responsivedesign-vector11 {
+  width: 170px;
+  height: 1px;
+}
+ 
+.responsivedesign-text116 {
+  color: var(--dl-color-default-ppwtextcolor);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+ 
+.responsivedesign-rectangle20{
+    width: 500px;
+    height: auto;
+}
+
+.responsivedesign-frame212{
+  gap: 50px;
+  display: flex;
+  align-items: center;
+}
+
+/* Tablet & Laptop (Max Width: 1024px) */
+@media screen and (max-width: 1024px) {
+  .responsivedesign-mac-book-air3 {
+    padding: 50px;
+    height: auto;
+  }
+
+  .responsivedesign-frame293 {
+    gap: 80px;
+  }
+
+  .responsivedesign-text104 {
+    font-size: 50px;
+  }
+
+  .responsivedesign-text108 {
+    font-size: 20px;
+  }
+
+  .responsivedesign-frame245 {
+    gap: 40px;
+    padding-left: 50px;
+  }
+
+  .responsivedesign-frame292 {
+    width: 100%;
+  }
+
+  .responsivedesign-button1 {
+    width: 180px;
+    height: 48px;
+  }
+
+  .responsivedesign-rectangle20 video{
+    margin: 0 auto;
+    max-width: 400px;
+  }
+}
+
+/* Tablet (Max Width: 768px) */
+@media screen and (max-width: 768px) {
+  .responsivedesign-mac-book-air3 {
+    padding: 40px;
+    text-align: center;
+  }
+
+  .responsivedesign-frame290 {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+
+  .responsivedesign-frame245 {
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 0;
+  }
+
+  .responsivedesign-text104 {
+    font-size: 40px;
+  }
+
+  .responsivedesign-text108 {
+    font-size: 18px;
+  }
+
+  .responsivedesign-button1 {
+    width: 160px;
+    height: 44px;
+  }
+
+  .responsivedesign-mac-book-air4 {
+    padding: 15px 30px;
+  }
+
+  .responsivedesign-mac-book-air5 {
+    padding: 60px 30px;
+  }
+
+  .responsivedesign-frame214 {
+    flex-direction: column;
+    gap: 50px;
+    text-align: center;
+  }
+
+  .responsivedesign-rectangle20 video {
+    margin: 0 auto;
+    max-width: 400px;
+    justify-content: center;
+    display: flex;
+  }
+}
+
+/* Mobile (Max Width: 480px) */
+@media screen and (max-width: 480px) {
+  .responsivedesign-mac-book-air3 {
+    padding: 20px;
+  }
+
+  .responsivedesign-text104 {
+    font-size: 32px;
+  }
+
+  .responsivedesign-text108 {
+    font-size: 16px;
+  }
+
+  .responsivedesign-frame245 {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .responsivedesign-button1 {
+    width: 140px;
+    height: 40px;
+  }
+
+  .responsivedesign-mac-book-air4 {
+    padding: 10px;
+  }
+
+  .responsivedesign-mac-book-air5 {
+    padding: 40px 15px;
+  }
+
+  .responsivedesign-frame214 {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .responsivedesign-rectangle20 video {
+    margin: 0 auto;
+    max-width: 400px;
+    justify-content: center;
+    display: flex;
+  }
+}
